@@ -1,0 +1,21 @@
+#include <stdio.h>
+int main() {
+    // 100'den 110'a kadar 11 sayi vardir
+    int sayilar[11]; 
+    int kareler[11];
+    int i, j;
+
+    // Sayilari ve karelerini dizilere doldurma
+    for (i = 0; i <= 10; i++) {
+        sayilar[i] = i + 100;                 // 100, 101... diye gider
+        kareler[i] = sayilar[i] * sayilar[i]; // Karesini hesaplar
+    }
+
+    // Dizileri ekrana yazdirma
+    for (j = 0; j <= 10; j++) {
+        printf("Sayi: %d ", sayilar[j]);
+        printf("-> Karesi: %d\n", kareler[j]);
+    }
+
+    return 0;
+}
