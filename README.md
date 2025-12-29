@@ -1,7 +1,7 @@
 # Algoritma ve Programlamaya Giriş Örnekleri
 # **>>> HAKKINDA**
 
-**Bu klasör, temel C programlama mantığını, veri yapılarını ve sistem yönetimini anlamaya yönelik hazırlanan örnekleri barındırmaktadır. Örnekler, konu sırasına uyumlu şekilde sıralanmıştır.**
+**Bu klasör, temel C programlama mantığını, veri yapılarını ve sistem yönetimini anlamaya yönelik hazırlanan örnekleri barındırmaktadır. Örnekler, konularla uyumlu şekilde yazılmıştır.**
 
 
 
